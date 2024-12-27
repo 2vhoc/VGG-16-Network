@@ -1,4 +1,4 @@
-# A of number Models built by BigTech company over more years
+# Some models have been built by BigTech companies over the years
 - 2012: AlexNet - Đây là bước đột phá lớn đầu tiên của Deep Learning trong Computer Vision, đạt top-1 accuracy 63.3% trên ImageNet. Kiến trúc CNN của AlexNet đã trở thành nền tảng cho nhiều mô hình sau này.
 - 2014: VGGNet - Đội Oxford đạt giải nhì với kiến trúc đơn giản nhưng rất hiệu quả, sử dụng các layer 3x3 convolution xếp chồng. VGG16 và VGG19 vẫn được sử dụng phổ biến đến ngày nay.
 - 2014: GoogLeNet/Inception - Đạt giải nhất với kiến trúc mới sử dụng Inception module, cho phép xử lý ảnh ở nhiều scale khác nhau đồng thời. Top-5 error chỉ còn 6.67%.
